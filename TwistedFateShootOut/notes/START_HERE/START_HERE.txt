@@ -1,0 +1,13 @@
+Hey, you. You're finally awake.
+
+It's good to see you here... IN THE CODE.
+
+I'm going to walk you through this project and explain what all the parts are,
+how they work, and why they exist. But before we dive into the code,
+just go ahead and hit "play" and check out the final result.
+
+========== 8 SECONDS LATER ============
+
+Pretty neat, right? Now, let's check out the object called o_init.
+
+I'll see you in the Create event of o_init!

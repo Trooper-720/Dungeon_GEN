@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"holdingCard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"holdingCard",
+  "parent":{
+    "name":"CardStuff",
+    "path":"folders/Scripts/PlayerStates/CardStuff.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

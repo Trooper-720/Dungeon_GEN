@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_MOVE",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_MOVE",
+  "parent":{
+    "name":"PlayerStates",
+    "path":"folders/Scripts/PlayerStates.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"checkCombos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkCombos",
+  "parent":{
+    "name":"CardStuff",
+    "path":"folders/Scripts/PlayerStates/CardStuff.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
